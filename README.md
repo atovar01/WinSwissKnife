@@ -109,6 +109,3 @@ Las contribuciones son bienvenidas. Si tienes ideas para una nueva funcionalidad
 
 También puedes abrir un "Issue" para reportar un error o proponer una mejora.
 
-### Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
